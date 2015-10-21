@@ -19,5 +19,4 @@ When(/^I select something$/) do
 
 	# puts 'Select something'
   select('1', :from => 'FD_Date_of_birth')
-  
 end
